@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\MyClass\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\Alex\source\repos\MyClass\MyClass\bin\Debug\MyClass.exe
+C:\Users\Alex\source\repos\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\Users\Alex\source\repos\MyClass\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\MyClass\obj\Debug\MyClass.exe
+C:\Users\Alex\source\repos\MyClass\MyClass\obj\Debug\MyClass.pdb
+C:\Users\Alex\source\repos\MyClass\MyClass\bin\Debug\System.ValueTuple.dll
+C:\Users\Alex\source\repos\MyClass\MyClass\bin\Debug\System.ValueTuple.xml
+C:\Users\Alex\source\repos\MyClass\MyClass\obj\Debug\MyClass.csproj.CopyComplete

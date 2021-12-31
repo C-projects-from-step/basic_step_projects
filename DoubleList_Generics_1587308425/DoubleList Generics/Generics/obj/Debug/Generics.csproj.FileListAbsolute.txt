@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MyClass\Generics\bin\Debug\Generics.exe.config
+C:\Users\Alex\source\repos\MyClass\Generics\bin\Debug\Generics.exe
+C:\Users\Alex\source\repos\MyClass\Generics\bin\Debug\Generics.pdb
+C:\Users\Alex\source\repos\MyClass\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\Generics\obj\Debug\Generics.exe
+C:\Users\Alex\source\repos\MyClass\Generics\obj\Debug\Generics.pdb
+C:\Users\Alex\source\repos\MyClass\Generics\obj\Debug\Generics.csprojAssemblyReference.cache

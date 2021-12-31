@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MyClass\Collections2\bin\Debug\Collections2.exe.config
+C:\Users\Alex\source\repos\MyClass\Collections2\bin\Debug\Collections2.exe
+C:\Users\Alex\source\repos\MyClass\Collections2\bin\Debug\Collections2.pdb
+C:\Users\Alex\source\repos\MyClass\Collections2\obj\Debug\Collections2.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MyClass\Collections2\obj\Debug\Collections2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\Collections2\obj\Debug\Collections2.exe
+C:\Users\Alex\source\repos\MyClass\Collections2\obj\Debug\Collections2.pdb

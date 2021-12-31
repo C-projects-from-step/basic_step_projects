@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MyClass\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Alex\source\repos\MyClass\Delegate\bin\Debug\Delegate.exe
+C:\Users\Alex\source\repos\MyClass\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Alex\source\repos\MyClass\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MyClass\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\Delegate\obj\Debug\Delegate.exe
+C:\Users\Alex\source\repos\MyClass\Delegate\obj\Debug\Delegate.pdb

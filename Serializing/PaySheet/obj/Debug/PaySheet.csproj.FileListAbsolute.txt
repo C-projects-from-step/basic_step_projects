@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MyClass\PaySheet\bin\Debug\PaySheet.exe.config
+C:\Users\Alex\source\repos\MyClass\PaySheet\bin\Debug\PaySheet.exe
+C:\Users\Alex\source\repos\MyClass\PaySheet\bin\Debug\PaySheet.pdb
+C:\Users\Alex\source\repos\MyClass\PaySheet\obj\Debug\PaySheet.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\PaySheet\obj\Debug\PaySheet.exe
+C:\Users\Alex\source\repos\MyClass\PaySheet\obj\Debug\PaySheet.pdb
+C:\Users\Alex\source\repos\MyClass\PaySheet\obj\Debug\PaySheet.csprojAssemblyReference.cache

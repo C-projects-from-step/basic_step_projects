@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\MyClass\XMLfiles\bin\Debug\XMLfiles.exe.config
+C:\Users\Alex\source\repos\MyClass\XMLfiles\bin\Debug\XMLfiles.exe
+C:\Users\Alex\source\repos\MyClass\XMLfiles\bin\Debug\XMLfiles.pdb
+C:\Users\Alex\source\repos\MyClass\XMLfiles\obj\Debug\XMLfiles.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyClass\XMLfiles\obj\Debug\XMLfiles.exe
+C:\Users\Alex\source\repos\MyClass\XMLfiles\obj\Debug\XMLfiles.pdb
+C:\Users\Alex\source\repos\MyClass\XMLfiles\obj\Debug\XMLfiles.csprojAssemblyReference.cache
